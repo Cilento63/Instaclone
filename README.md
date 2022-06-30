@@ -1,7 +1,9 @@
 # Instaclone
 
 ## Instagram 📱
+<div width="200" >
 ![Screenshot_1656629091](https://user-images.githubusercontent.com/86444245/176790749-7c985f0d-e1ec-4408-9e6f-ff0d68a52038.png)
+  </div>
 
 
 
