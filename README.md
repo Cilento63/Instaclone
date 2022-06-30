@@ -1,8 +1,10 @@
 # Instaclone
 
 ## Instagram 📱
-![image](https://user-images.githubusercontent.com/86444245/176790600-d9d47d60-499b-4b42-a830-bcf523aae57b.png)
+![Screenshot_1656629091](https://user-images.githubusercontent.com/86444245/176790749-7c985f0d-e1ec-4408-9e6f-ff0d68a52038.png)
+
+
 
 ## Instaclone 🔥
-![image](https://user-images.githubusercontent.com/86444245/176790536-697ad388-d1a2-4bd8-8771-a7874335fb5f.png)
+![Screenshot_1656629041](https://user-images.githubusercontent.com/86444245/176790709-58e1bcff-d25d-495b-8fb2-4601021b883f.png)
 
