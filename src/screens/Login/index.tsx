@@ -40,23 +40,17 @@ export function Login() {
                 placeholderTextColor={"#aaa"}
                 style={styles.input}
                 placeholder="Senha"
-                autoCapitalize="none"
-                autoCorrect={false}
-                textContentType="newPassword"
                 secureTextEntry
-                value={password}
-                enablesReturnKeyAutomatically
-                onChangeText={text => setPassword(text)}
             />
             <TouchableOpacity style={styles.buttonLogin} >
-                <Text onPress={() => navigation.push('Post')} style={styles.textLogin} >Entrar</Text>
+                <Text onPress={() => navigation.navigate('Post')} style={styles.textLogin} >Entrar</Text>
             </TouchableOpacity>
 
             <Text style={{ margin: 8, textAlign: "center", color: "#000" }}>Esqueceu seus dados de login?
                 <Text onPress={() => navigation.push('Help')} style={{ color: "#02023d", fontWeight: "bold" }} > Obtenha ajuda para entrar.</Text>
             </Text>
 
-            <Text style={styles.textOr}>━━━━━━━━━━━━━ OU ━━━━━━━━━━━━</Text>
+            <Text style={styles.textOr}> ━━━━━━━━━━━━ OU ━━━━━━━━━━━━</Text>
 
             <View style={{ flexDirection: "row" }}>
                 <Image style={styles.logoFacebook} source={logoFacebook} />
